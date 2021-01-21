@@ -1,0 +1,66 @@
+WARNING:root:cuidado
+INFO:root:Ya te lo adverti
+2018-08-10 12:53:19,306 : WARNING : cuidado
+2018-08-10 12:53:19,306 : INFO : Ya te lo adverti
+2018-08-17 12:03:33,899 : WARNING : cuidado
+2018-08-17 12:03:33,899 : INFO : Ya te lo adverti
+2018-08-17 12:03:46,077 : WARNING : cuidado
+2018-08-17 12:03:46,077 : INFO : Ya te lo adverti
+2018-08-17 12:18:49,192 : WARNING : cuidado
+2018-08-17 12:18:49,192 : INFO : Ya te lo adverti
+2018-08-17 12:20:38,430 : WARNING : cuidado
+2018-08-17 12:20:38,430 : INFO : Ya te lo adverti
+2018-08-17 12:20:45,263 : WARNING : cuidado
+2018-08-17 12:20:45,263 : INFO : Ya te lo adverti
+2018-08-17 12:20:51,444 : WARNING : cuidado
+2018-08-17 12:20:51,445 : INFO : Ya te lo adverti
+2018-08-21 16:12:57,987 : WARNING : cuidado
+2018-08-21 16:12:57,988 : INFO : Ya te lo adverti
+2018-08-21 16:27:39,275 : WARNING : cuidado
+2018-08-21 16:27:39,275 : INFO : Ya te lo adverti
+2018-08-21 16:48:41,700 : WARNING : cuidado
+2018-08-21 16:48:41,700 : INFO : Ya te lo adverti
+2018-08-21 16:49:52,663 : WARNING : cuidado
+2018-08-21 16:49:52,663 : INFO : Ya te lo adverti
+2018-08-21 16:50:39,722 : WARNING : cuidado
+2018-08-21 16:50:39,722 : INFO : Ya te lo adverti
+2018-08-21 16:51:42,016 : WARNING : cuidado
+2018-08-21 16:51:42,016 : INFO : Ya te lo adverti
+2018-08-21 16:52:08,729 : WARNING : cuidado
+2018-08-21 16:52:08,729 : INFO : Ya te lo adverti
+2018-08-21 17:34:41,093 : WARNING : cuidado
+2018-08-21 17:34:41,094 : INFO : Ya te lo adverti
+2018-08-21 17:43:33,021 : WARNING : cuidado
+2018-08-21 17:43:33,021 : INFO : Ya te lo adverti
+2018-08-21 17:43:57,795 : WARNING : cuidado
+2018-08-21 17:43:57,795 : INFO : Ya te lo adverti
+2018-08-21 17:52:38,267 : WARNING : cuidado
+2018-08-21 17:52:38,269 : INFO : Ya te lo adverti
+2018-08-21 17:53:05,883 : WARNING : cuidado
+2018-08-21 17:53:05,883 : INFO : Ya te lo adverti
+2018-08-21 17:54:05,611 : WARNING : cuidado
+2018-08-21 17:54:05,611 : INFO : Ya te lo adverti
+2018-08-21 17:54:59,355 : WARNING : cuidado
+2018-08-21 17:54:59,356 : INFO : Ya te lo adverti
+2018-08-21 17:55:40,019 : WARNING : cuidado
+2018-08-21 17:55:40,019 : INFO : Ya te lo adverti
+2018-08-21 17:55:59,213 : WARNING : cuidado
+2018-08-21 17:55:59,213 : INFO : Ya te lo adverti
+2018-08-21 17:57:58,925 : WARNING : cuidado
+2018-08-21 17:57:58,925 : INFO : Ya te lo adverti
+2018-08-22 15:07:01,766 : WARNING : cuidado
+2018-08-22 15:07:01,767 : INFO : Ya te lo adverti
+2018-08-27 15:28:48,691 : WARNING : cuidado
+2018-08-27 15:28:48,694 : INFO : Ya te lo adverti
+2018-08-27 16:54:12,504 : WARNING : cuidado
+2018-08-27 16:54:12,504 : INFO : Ya te lo adverti
+2018-08-27 18:00:25,267 : WARNING : cuidado
+2018-08-27 18:00:25,267 : INFO : Ya te lo adverti
+2018-08-27 18:02:34,997 : WARNING : cuidado
+2018-08-27 18:02:34,997 : INFO : Ya te lo adverti
+2018-08-27 18:08:37,596 : WARNING : cuidado
+2018-08-27 18:08:37,596 : INFO : Ya te lo adverti
+2018-08-27 18:52:21,856 : WARNING : cuidado
+2018-08-27 18:52:21,856 : INFO : Ya te lo adverti
+2018-08-27 18:54:06,011 : WARNING : cuidado
+2018-08-27 18:54:06,012 : INFO : Ya te lo adverti
